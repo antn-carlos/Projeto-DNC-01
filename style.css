@@ -287,5 +287,15 @@ body {
         font-size: 17px;
     }
 
+    footer .lineone {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    footer .location {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
 }
 
